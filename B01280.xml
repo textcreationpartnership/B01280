@@ -1,0 +1,464 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De termino Pasche anno. XVII. Edwardi quatti [sic].</title>
+            <title>Year books (Edward IV : 1477-1478)</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1566</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01280</idno>
+            <idno type="STC">STC 9863.3</idno>
+            <idno type="STC">ESTC S92228</idno>
+            <idno type="EEBO-CITATION">57402286</idno>
+            <idno type="OCLC">ocm 57402286</idno>
+            <idno type="VID">181095</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01280)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181095)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2165:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>De termino Pasche anno. XVII. Edwardi quatti [sic].</title>
+                  <title>Year books (Edward IV : 1477-1478)</title>
+               </titleStmt>
+               <extent>viii leaves [15 p.].   </extent>
+               <publicationStmt>
+                  <publisher>in fletestrete within Temple Barre, at the signe of the hande &amp; starre by Richard Tottel,,</publisher>
+                  <pubPlace>Jmprinted at London :</pubPlace>
+                  <date>Anno. 1557 [i.e. 1556?]..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Law reports for 17 Edward IV (Easter, Trinity, Michaelmas, and Hilary terms).</note>
+                  <note>Text in Law French.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; actual date suggested by STC (2nd ed.).</note>
+                  <note>In this edition, line 1 of colophon ends: Lon-.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>"Cum priuilegio ad imprimendum solum."--Colop.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in: Dulwich College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="frm">frm</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law reports, digests, etc. --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <body>
+         <div type="part">
+            <pb facs="tcp:181095:1"/>
+            <head>¶DE TERMINO PASCHE ANNO. XVII. Edwardi quarti.</head>
+            <p>
+               <note place="margin">1 Appel. Corone. 41</note>
+               <seg rend="decorInit">E</seg>N Leſcheker chaumber, ceſt queſtion fuit <abbr>dde</abbr> des iuſtices la eſtiantz. Vn femme ad iſſue fitz, le quel fitz eſt murder neya<g ref="char:cmbAbbrStroke">̄</g>t heire de parte ſon pier ſi ſo<g ref="char:cmbAbbrStroke">̄</g> vncle de part la mier au<g ref="char:cmbAbbrStroke">̄</g>a lappel ou ne<g ref="char:EOLhyphen"/>my ¶
+<hi>Billing.</hi> chiefe iuſtice dengleterr<g ref="char:cmbAbbrStroke">̄</g>. ¶<hi>Ned<g ref="char:EOLhyphen"/>ham &amp; Chok,</hi> diſoient que lappel ne giſt pur luy pur ceo que il conuey ſon title dauer <abbr>lappell</abbr> par le femme, que ne puiſſoit vnques auer appel de mort dautre forſque de ſon baron, ¶<hi>Brian, Nele, Littelton,</hi> &amp; le chiefe Baron <hi>in contraria opinione,</hi> quar luncle de parte le pier poet auer <abbr>appell</abbr> de mort ſon neuewe, et vncore le pier par que il fait ſon conueians ne puit auer <abbr>appell</abbr> de mort ſon fitz, nient pluis que la mier le fitz. ¶<hi>Billing,</hi> co<g ref="char:EOLhyphen"/>ment que le pier ne poit auer <abbr>appell</abbr> de mort ſon fitz, pour ceo q<g ref="char:cmbAbbrStroke">̄</g> 
+               <abbr>lap<g ref="char:EOLhyphen"/>pell</abbr> eſt toutz foitz done al heire par diſcent, vncore il eſt enable da<g ref="char:EOLhyphen"/>uer <abbr>appell</abbr> de mort ſon aunceſtre, Et ceo ne poit le mere auer, come appiert per leſtatut de Magna carta. Ca. xxxiiii. Et ſi aſcun perſon par quel le <abbr>pl</abbr> ou lappellant conuey ſon tytle dauer appel ou accion del terre ſoit diſable dauer appel ou acc<g ref="char:cmbAbbrStroke">̄</g> de meſme la terre, come par vtlagary de felonye, ou auterment, ſoit il par lineal diſcent ou colla<g ref="char:EOLhyphen"/>teral, lacc<g ref="char:cmbAbbrStroke">̄</g> faile et <abbr>lappell</abbr> auxi, coment que meſme le perſon iſſint di<g ref="char:EOLhyphen"/>ſable ne puiſſoit vnq<g ref="char:cmbAbbrStroke">̄</g>s auer la terre ou <abbr>lappell</abbr> coment q<g ref="char:cmbAbbrStroke">̄</g> il fuit mye
+<abbr>diſabl</abbr> 
+               <hi>ſic hic &amp;c.</hi> 
+               <abbr>Vid</abbr> hanc materia<g ref="char:cmbAbbrStroke">̄</g> bn<g ref="char:cmbAbbrStroke">̄</g> argumentar<g ref="char:cmbAbbrStroke">̄</g>. xx. H. vi. infin<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            <p>
+               <note place="margin">2 Treſpas. Contract</note>EN Trn<g ref="char:cmbAbbrStroke">̄</g>s de cloſe debruſe et frument orge et herbez priſes &amp; em<g ref="char:EOLhyphen"/>ꝑtz ¶<hi>Cat.</hi> acc<g ref="char:cmbAbbrStroke">̄</g> non, car longe temps deuant le treſpas ſupp<g ref="char:cmbAbbrStroke">̄</g> le
+<abbr>pl</abbr> et le def. bargaynent en tyel <abbr>gard</abbr> en
+<abbr>Lond</abbr>, que le def. duiſt aler al lieu ou, &amp;c. et la voier le dit frument, orge, et pree, et ſi eux luy pleiſt quant il les veiaſt que il donques duiſt prendre le dit frume<g ref="char:cmbAbbrStroke">̄</g>t, orge, &amp; lerbage paia<g ref="char:cmbAbbrStroke">̄</g>t al dit
+<abbr>pl</abbr> iii. s<g ref="char:cmbAbbrStroke">̄</g>. iiii. <abbr>d.</abbr> pour cheſcun acre vn oue autre. Et nous diomus q<g ref="char:cmbAbbrStroke">̄</g> nous alamus la et eux veieromus co<g ref="char:cmbAbbrStroke">̄</g>e deuant, &amp; fui<g ref="char:EOLhyphen"/>mus bn<g ref="char:cmbAbbrStroke">̄</g> co<g ref="char:cmbAbbrStroke">̄</g>te<g ref="char:cmbAbbrStroke">̄</g>t oue le bargain, par q<g ref="char:cmbAbbrStroke">̄</g> nous eux priſomus le q<g ref="char:cmbAbbrStroke">̄</g>l e<g ref="char:cmbAbbrStroke">̄</g> meſme le treſpas iugement &amp;c. ¶<hi>Pigot.</hi> ceo ne<g ref="char:cmbAbbrStroke">̄</g> plee pur diuers cauſes. Vn eſt il ad dit que le lieu &amp;c. eſt. x. acres de frument &amp;c. lou il duiſt auer dit. x. acres de terre ſemes oue frument, &amp;c. Auxi il ad conus le priſe et nad monſtre coment il ad nous pay lez denierz <abbr>accord</abbr> al bargain<g ref="char:cmbAbbrStroke">̄</g> car ieo croy q<g ref="char:cmbAbbrStroke">̄</g> ne liſt a luy de les prendre auau<g ref="char:cmbAbbrStroke">̄</g>te que il ad fait le pai<g ref="char:EOLhyphen"/>ment, car il ſerr<g ref="char:cmbAbbrStroke">̄</g> treſmiſcheuous ley q<g ref="char:cmbAbbrStroke">̄</g> il les au<g ref="char:cmbAbbrStroke">̄</g>oit &amp; ne paier &amp;c. Auxi qua<g ref="char:cmbAbbrStroke">̄</g>t il auer veye les greines &amp;c. il duiſſoit auer certifie nous ſil fuiſ<g ref="char:EOLhyphen"/>ſoit content oue eux ou nemy. iſſint q<g ref="char:cmbAbbrStroke">̄</g> nous duiſſomus conuſtr<g ref="char:cmbAbbrStroke">̄</g> que il eux priſt pur meſm<g ref="char:cmbAbbrStroke">̄</g> 
+               <abbr>l</abbr> cauſe, car il ne poit eſtr<g ref="char:cmbAbbrStroke">̄</g> parfit bargain ſi ne ſoit <pb facs="tcp:181095:2"/>que cheſcun partie ſoit agree &amp;c. ¶
+<hi>Cateſby,</hi> le ple eſt aſſetz ben pour aſcun cauſe que il ad mouſtre, primer conceit q<g ref="char:cmbAbbrStroke">̄</g> nous auomus appel les acres de frument. &amp;c. et nemy de terre. &amp;c. il en iſſint <abbr>appell</abbr> vul<g ref="char:EOLhyphen"/>gariter: a lauter conceit que nauomus ſurmitte le payment de les deniers, ieo croy que pluſours bargaynes en le royalme ſont voy<g ref="char:EOLhyphen"/>des ſi ceo duiſt eſte ley. Mes ieo te igne que il eſt loyal a luy pur eux prender ſur tiel bargaine deuant aſcun payment: quar il neſt a aſ<g ref="char:EOLhyphen"/>cun miſchiefe, quar il poit auer accion de Dette pur largent quaunt nous auomus reſceiue le choſe pur quoy &amp;c. Et a ma ente<g ref="char:cmbAbbrStroke">̄</g>ten theſ<g ref="char:EOLhyphen"/>cun tiel bargain le ley
+<abbr>entend</abbr> que come lun miſt ſon truſt in lauter pur auer le choſe pur quoy ilz bargainent, que iſſint duiſt lauter eco<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tra. Et a ceo que nous doiomus certifier luy de noſir<g ref="char:cmbAbbrStroke">̄</g> agrement, ceo duiſt eſtre trop dure, que quant nous ſumus bien conte<g ref="char:cmbAbbrStroke">̄</g>t oue <abbr>l</abbr> view del choſe (que eſt parauenture en auter pais en <abbr>graund</abbr> diſtauns de Loundres) de reuener cieins pur ceo monſtrer a luy. Et auxi le bargain en luy proue que ne beſoigne pas, pour ceo que il ad
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſon volunt en nr<g ref="char:cmbAbbrStroke">̄</g>e velunt. s. ſi eux neus pleiſt ſur le view de ceux que a<g ref="char:EOLhyphen"/>donques nous laueromus, par oue don<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> il ne puit meux e<g ref="char:cmbAbbrStroke">̄</g>e certifie que il eſt par noſtre priſel &amp;c. ¶<hi>Littelton,</hi> quantal paiment mey ſe<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ble q<g ref="char:cmbAbbrStroke">̄</g> il duiſt ceo <abbr>ſurmitt</abbr> ou auterm<g ref="char:cmbAbbrStroke">̄</g>t neſt ple: come ſi ieo veigu<g ref="char:cmbAbbrStroke">̄</g> a vn draper &amp; <abbr>demand</abbr> de luy come bien ieo paiera pur tiel piece de drape que dit que taunt, et ieo die que ieo voile ceo iſſint auer, mes ieone luy paye aſcun denere en poigne par q<g ref="char:cmbAbbrStroke">̄</g> ieo priu<g ref="char:cmbAbbrStroke">̄</g> le drape: icy il auer a bon accion de treſpas vers moy, et ne ſerra ple pour mey adire q<g ref="char:cmbAbbrStroke">̄</g> ieo ceo achate de luy, ſanz mr<g ref="char:cmbAbbrStroke">̄</g>er que ieo luy paya &amp;c. <hi>ſic hic.</hi> ¶<hi>Chok,</hi> a m<g ref="char:cmbAbbrStroke">̄</g> lentent, quar vn contract ne poit eſte profit ſauns lagrem<g ref="char:cmbAbbrStroke">̄</g>t de theſe<g ref="char:cmbAbbrStroke">̄</g> partie, quia dicitur de con, <abbr>qd</abbr> eſt ſimul: quar ſi vous moy demaun<g ref="char:EOLhyphen"/>des en Smithfield combien vous doneres a moy pour mon chiual, et ieo die que taunt, et vous dytes que vous voilles luy auer, et ne dones poynt dargent, crois vous que pur tant eſt mon volunte que vous luy doiez auer ſaunz paier lez denierz<g ref="char:punc">▪</g> ieo die que non, mez ieo luy puiz vender a vn auter <abbr>maint</abbr>, &amp; vous nauerez aſcun remedy
+<abbr>vz</abbr> moy, car auterment ieo ſerra compelle de garder mon chyuall tout tempz encountre ma gree ſi le proprietie ſoit en vous, et vous duiſ<g ref="char:EOLhyphen"/>ſes luy prendre quant vous pleiſt, que ſerra encountre reaſon. ſic hic ¶<hi>Brian,</hi> a meſme lentent, et moy ſemble pour aſcuns parolx que il ad ſurmitte en le bargaine que ne liſt a luy dentrer et prendre les greinez, quar ne poit eſtre <abbr>entend</abbr> que il voilloit que le def, duiſt lez greinez auer, ſi non que il paiaſt le money: Mes ſi il auer dyt a luy preignez et paiez quaunt a vous plerra, ou ſi il auer luy don<g ref="char:cmbAbbrStroke">̄</g> aſcun <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our de paiment, donques ieo voille bien que il purra eux prendre et <pb facs="tcp:181095:2"/>que ſerra bon barre come il eſt <abbr>pled</abbr> quant a ceo. Et vncore ieo die que le propriete eſt en le def. par le bargaine en le cas al barre et en toutz vr<g ref="char:cmbAbbrStroke">̄</g>e caſes des chiualx et draps: vncor<g ref="char:cmbAbbrStroke">̄</g> ne liſt a ce<g ref="char:cmbAbbrStroke">̄</g>y q<g ref="char:cmbAbbrStroke">̄</g> ad le
+<abbr>ꝓpriet</abbr> de ceo prendre ſans gree lautre, Et il auera briefe de Detinue mes le defenda<g ref="char:cmbAbbrStroke">̄</g>t ſerra excuſe adire q<g ref="char:cmbAbbrStroke">̄</g> il fuit priſt de ceo rendre ſi lauter vſt luy paie, Et ſi il port accion de dette il au<g ref="char:cmbAbbrStroke">̄</g>a meſme le ple Le cas eſt aſſetz come lou <abbr>l</abbr> propertie demurra tout temps en moy, et vncore durant cerr<g ref="char:cmbAbbrStroke">̄</g> temps ieo ne purr<g ref="char:cmbAbbrStroke">̄</g> ceo prendre, co<g ref="char:cmbAbbrStroke">̄</g>e lou ieo baile certein barbitz a vn home pur compaſtr<g ref="char:cmbAbbrStroke">̄</g> ſa terre pour certein temps, iey le propriete eſt en moy et vncore dura<g ref="char:cmbAbbrStroke">̄</g>t le terme ieo ne puis eux repre<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>dr<g ref="char:cmbAbbrStroke">̄</g>. Pur lauter conceit moy <abbr>ſembl</abbr> le ple ne<g ref="char:cmbAbbrStroke">̄</g> bon ſans monſtre q<g ref="char:cmbAbbrStroke">̄</g> il ad certifie lautre de ſon pleaſure, car comen erudicion e<g ref="char:cmbAbbrStroke">̄</g> que le<g ref="char:cmbAbbrStroke">̄</g>tent dun home ne ſerra trie, car le diable nad conuſans de lentent de home: Mes ſi vous vſſes agree q<g ref="char:cmbAbbrStroke">̄</g> ſi le bargaine vous pleiſt q<g ref="char:cmbAbbrStroke">̄</g> adon<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> vous voilles ceo monſtre a vn tiel, don<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ieo <abbr>voill</abbr> graunter que vous ne boſoigne de faire pluis, car ceſt vn mater en fait: ieo poſe que ieo ſue oblige a vous en. x. li. paiable deins deux ou trois iours a<g ref="char:abpre">p̄</g>s, ſur co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>dicio<g ref="char:cmbAbbrStroke">̄</g> que ſi vous pleiſt de <abbr>prend</abbr> vn tiel mon chiual, pur tiel treſpas que ieo ay vous fait, que ado<g ref="char:cmbAbbrStroke">̄</g>ques &amp;c. et vous veies le chiual, mez ne dittes a moye ſil vous pleiſt ou nemye, par que ieo ne paie pas les x. li. ſerra lobligac<g ref="char:cmbAbbrStroke">̄</g> forfait<g ref="char:punc">▪</g> non par que &amp;c. ¶<hi>Cateſbie,</hi> ſir ſil le <abbr>chy<g ref="char:EOLhyphen"/>uall</abbr> ne priſt iſſint que ſon acte proue lagrement, donques vous forfaitz voſtre obligation. Et a ceo que eſt dit que ne beſoigne aly<g ref="char:EOLhyphen"/>uerer le choſe vendue deuant que il paie, en meſme le maner lautre neſt lie de paier deuant q<g ref="char:cmbAbbrStroke">̄</g> il adle choſe vendue: Mes co<g ref="char:cmbAbbrStroke">̄</g>e ieo aie dit deuant par le ley et reaſon cheſcun mittera confidens en autre, Et ſi le paunent ſerroit materiall, ieo croy que nous duiſſomus au<g ref="char:cmbAbbrStroke">̄</g> vieu iſſues priſes ſur ceo en noſtre liueres. Mes ieo ne vnq<g ref="char:cmbAbbrStroke">̄</g>s veia come ieo poſe q<g ref="char:cmbAbbrStroke">̄</g> vous portz br<g ref="char:cmbAbbrStroke">̄</g>e de treſpas <abbr>vs</abbr> moy de voſtre
+<abbr>chiuall</abbr> priſe, et ieo <abbr>pled</abbr> q<g ref="char:cmbAbbrStroke">̄</g> ieo luy
+<abbr>achat</abbr> de vn tiel certe in iour en Lo<g ref="char:cmbAbbrStroke">̄</g>dres en mar<g ref="char:EOLhyphen"/>ket ouert, &amp; puis luy co<g ref="char:cmbAbbrStroke">̄</g>mit a vn B. pur <abbr>gard</abbr> que luy dona a vous &amp; ieo luy priſt, dirres vous en ceo cas que ieo ne paia point pur le
+<abbr>chy<g ref="char:EOLhyphen"/>uall?</abbr> ¶<hi>Choke</hi> non, car ceo neſt material al pleintife. ¶<hi>Pigot,</hi> ſi ieo ſuy oblige a vous en xx. li. de vous enfeoffer en tiel acre de terre tiel iour, ſi vous pleiſt de prendr<g ref="char:cmbAbbrStroke">̄</g> le feoffem<g ref="char:cmbAbbrStroke">̄</g>t, ne ferrez vous lie la de moy monſtre voſtre pleaſure? oyle verament come moy ſemble.</p>
+            <p>¶<hi>Littelton,</hi> ieo ne purra agreer q<g ref="char:cmbAbbrStroke">̄</g> le propriete e<g ref="char:cmbAbbrStroke">̄</g> en luy q<g ref="char:cmbAbbrStroke">̄</g> achate par tiel perolx ſauns paiment, car il neſt elere barga<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> mes ſur condi<g ref="char:EOLhyphen"/>cion en ley, ceſt aſſauoir ſi il luy paye que il ſerra bon et ſinon il ſer<g ref="char:EOLhyphen"/>ra voide. Co<g ref="char:cmbAbbrStroke">̄</g>e mittomus q<g ref="char:cmbAbbrStroke">̄</g> ſi ieo enfeoffe <hi>Pigot</hi> de enfeoffer
+<hi>Cateſby</hi> 
+               <pb facs="tcp:181095:3"/>ſil ne voet luy enfeoffer mon entre eſt enclude en ley: iſſint le ꝑfor<g ref="char:EOLhyphen"/>mans del condicion cauſe le propriete eſtr<g ref="char:cmbAbbrStroke">̄</g> en luy. ¶<hi>Cateſby,</hi> qua<g ref="char:cmbAbbrStroke">̄</g>ta certif. de ſon agrement, ieo poſe que il vſt de uenus muetap<g ref="char:cmbAbbrStroke">̄</g>z le bar<g ref="char:EOLhyphen"/>gain par larte de dieu, et ne ſauoit pas eſcrier, et e<g ref="char:cmbAbbrStroke">̄</g> en bon memorie, et lhome ſemble q<g ref="char:cmbAbbrStroke">̄</g> le bargain eſt pur ſon profit, coment duiſt il faire, ne ſerr<g ref="char:cmbAbbrStroke">̄</g> ſon priſel ſufficient pur prou<g ref="char:cmbAbbrStroke">̄</g> ſon volunt? quaſi. <abbr>d.</abbr> ſic, par q<g ref="char:cmbAbbrStroke">̄</g> &amp;c.</p>
+            <p>
+               <note place="margin">3 Dette.</note>VN A. port accion de Dette ſur obligacio<g ref="char:cmbAbbrStroke">̄</g> vers <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> T. Cooke <abbr>l</abbr> q<g ref="char:cmbAbbrStroke">̄</g>l T. C. mr<g ref="char:cmbAbbrStroke">̄</g>a vn ende<g ref="char:cmbAbbrStroke">̄</g>ture de feſans q<g ref="char:cmbAbbrStroke">̄</g> contein diuers articlez de<g ref="char:cmbAbbrStroke">̄</g>e parformes par le def. enter queux vn fuit, q<g ref="char:cmbAbbrStroke">̄</g> le dit. T. C. &amp; toutz ſes feoffes, &amp; ceux q<g ref="char:cmbAbbrStroke">̄</g> ount eſtate par luy en certein terre, meaſons, et ſhoppez leſſes par le dit T. C. al dit <abbr>pl</abbr> doient parmitter &amp; ſuffrer le leſſe de prendre les profitz deux, et eux occupier deuant ſo<g ref="char:cmbAbbrStroke">̄</g> terme. Et nous diomus q<g ref="char:cmbAbbrStroke">̄</g> nous &amp; toutz nr<g ref="char:cmbAbbrStroke">̄</g>e feoffees &amp;c. auomus luy ſuffre &amp;c. ¶
+<hi>Cateſby</hi> vous couient monſtrer q<g ref="char:cmbAbbrStroke">̄</g>ux fuer<g ref="char:cmbAbbrStroke">̄</g> vr<g ref="char:cmbAbbrStroke">̄</g>e feoffes. Et ſi vous aues nul feoffe en la terre &amp;c. de ceo mr<g ref="char:cmbAbbrStroke">̄</g>er expreſſeme<g ref="char:cmbAbbrStroke">̄</g>t et adire que vous m<g ref="char:cmbAbbrStroke">̄</g> nous ſuffcaſtꝭ, come ſi ſoies oblige q<g ref="char:cmbAbbrStroke">̄</g> vous ou vr<g ref="char:cmbAbbrStroke">̄</g>e feoffeez deues fair<g ref="char:cmbAbbrStroke">̄</g> a nous eſtate en le man<g ref="char:cmbAbbrStroke">̄</g> de Dale, la ſi le man<g ref="char:cmbAbbrStroke">̄</g> ſoit en poſ<g ref="char:EOLhyphen"/>ſeſſion de certen feoffes, vous couient mr<g ref="char:cmbAbbrStroke">̄</g>e ceo, &amp; q<g ref="char:cmbAbbrStroke">̄</g> ilz ou<g ref="char:cmbAbbrStroke">̄</g>t moy fayt <abbr>eſtat</abbr>, Et ſi vous fuiſtꝭ m<g ref="char:cmbAbbrStroke">̄</g> ſeiſi, de
+<abbr>pled</abbr> 
+               <abbr>accord</abbr> &amp;c. ſic hic. ¶
+<hi>Litelton</hi> ni<g ref="char:EOLhyphen"/>ent ſemble, car lou ieo ſue oblige de faire vn choſe ou autre pur moy co<g ref="char:cmbAbbrStroke">̄</g>e eſt en vr<g ref="char:cmbAbbrStroke">̄</g>e caſe vous ditz voier, Mes lou ieo ou
+<abbr>aut</abbr> pur moy du<g ref="char:EOLhyphen"/>iſſe ſuffre choſe eſte co<g ref="char:cmbAbbrStroke">̄</g>tinue le ley eſt autre, car vn ſuffranz ne<g ref="char:cmbAbbrStroke">̄</g> p<g ref="char:cmbAbbrStroke">̄</g> acte Et iſſint fuit loppinion del court.</p>
+            <p>
+               <note place="margin">4 Appel.</note>APpellou appellant fuit deinz age. ¶<hi>Cateſby</hi> pour le def, pria q<g ref="char:cmbAbbrStroke">̄</g> il poet eſte diſmiſſe: ca<g ref="char:cmbAbbrStroke">̄</g>a qua ſup<g ref="char:cmbAbbrStroke">̄</g>. Et les iuſtices diſoient que ils voille examiner le matter pluis. Et ſi eux ſemble que <abbr>lappel</abbr> e<g ref="char:cmbAbbrStroke">̄</g> culp<g ref="char:cmbAbbrStroke">̄</g> il demurra en <abbr>gard</abbr> tan<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> al plein age lenfant.</p>
+            <p>
+               <note place="margin">5 Entre. Accord.</note>ENtre ſur leſtatut de R. le def. <abbr>pled</abbr> vn co<g ref="char:cmbAbbrStroke">̄</g>corde oue le <abbr>pl</abbr> purlentr<g ref="char:cmbAbbrStroke">̄</g> s. q<g ref="char:cmbAbbrStroke">̄</g> il duiſt paier al <abbr>pl</abbr> vi. <abbr>d.</abbr> en ſatiffacc<g ref="char:cmbAbbrStroke">̄</g> del tort, &amp; auxi de don<g ref="char:cmbAbbrStroke">̄</g> a<g ref="char:cmbAbbrStroke">̄</g> luy ſon counſell en ſon faculte quamit il fuit requiſe, les queux deners il paie &amp;c. ¶<hi>Townſend</hi> ceo neſt plee, car il ad <abbr>graund</abbr> dyuerſite entre vn arbiterment et vn concorde, quar dun <abbr>concord</abbr> ſi les parties doi<g ref="char:EOLhyphen"/>ent eſte lies par ceo couient que cheſcu<g ref="char:cmbAbbrStroke">̄</g> point ſoit execute ſi ſoient. xx. Et le cauſe eſt, pur ceo que il ne poit eſte compelle de ceo parfourm<g ref="char:cmbAbbrStroke">̄</g> par voie daccion, mes dun arbitrement eſt auter: donques quaunt <abbr>laccord</abbr> fuit que il duiſt paier vi. <abbr>d.</abbr> et auxi don<g ref="char:cmbAbbrStroke">̄</g> counſel, nient pur qua<g ref="char:cmbAbbrStroke">̄</g>t que il ad <abbr>ſurmitt</abbr> q<g ref="char:cmbAbbrStroke">̄</g> il ad paie les deners, vncore nad il dyt que il luy donaſt aſcun counſel. ¶<hi>Nedham</hi>
+               <abbr>laccord</abbr> neſt ſimplement que il do<g ref="char:EOLhyphen"/>nera counſel eins quant il fuit requiſe, par que ſi voilles auer auau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>tage de ceo vous couient de monſter q<g ref="char:cmbAbbrStroke">̄</g> vous demaundez de luy cou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ſel, <pb facs="tcp:181095:3"/>et il ne voilloit &amp;c. ¶<hi>Towneſend</hi> vncor<g ref="char:cmbAbbrStroke">̄</g> il couient mo<g ref="char:cmbAbbrStroke">̄</g>ſtre ceo ex<g ref="char:EOLhyphen"/>ecute en fait, quar ne ſerra bon ple de <abbr>pled</abbr> vn concord q<g ref="char:cmbAbbrStroke">̄</g> ieo vous fra feoffement del man<g ref="char:cmbAbbrStroke">̄</g> de D. deuant tiel iour pur le treſpas que ieo aye vous fait ſi vous ꝑtaſtꝭ accion de treſpas deua<g ref="char:cmbAbbrStroke">̄</g>t le iour, ſau<g ref="char:cmbAbbrStroke">̄</g>s monſtr<g ref="char:cmbAbbrStroke">̄</g> que iay fait le feoffement et ſi ſic. Et les iuſtices fuerunt en dyuers oppinions.</p>
+            <p>
+               <note place="margin">6 Dette.</note>DEtte ſur arbitrement, q<g ref="char:cmbAbbrStroke">̄</g>l fuit que le def. duiſſoit auer del<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uer al <abbr>pl</abbr> le teſtam<g ref="char:cmbAbbrStroke">̄</g>t ſon teſtatour tiel iour &amp;c. Et le def. dyt q<g ref="char:cmbAbbrStroke">̄</g> il auoyt deliuera a luy lr<g ref="char:cmbAbbrStroke">̄</g>as teſtame<g ref="char:cmbAbbrStroke">̄</g>torias, &amp; iſſint ad il ꝑforme le <abbr>gard</abbr>. Et ceo fuit
+<abbr>chall</abbr>, pur ceo que il ne mr<g ref="char:cmbAbbrStroke">̄</g>e que il ad liuer le teſtament ꝑ tiel perol teſtamentum ¶<hi>Littelto<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> le ple eſt bon. Et dit que le ley ne ſerra priſe ſtricte en variance des parolx, car ſi
+<abbr>lagard</abbr> ſoit parform<g ref="char:cmbAbbrStroke">̄</g> en fait ces parolx ne font mater: come ſi les arbitrours vſſent agr<g ref="char:cmbAbbrStroke">̄</g> q<g ref="char:cmbAbbrStroke">̄</g> lun dez parties done ra a lautr<g ref="char:cmbAbbrStroke">̄</g> quoddam factum feoffamenti, &amp; il liu<g ref="char:cmbAbbrStroke">̄</g> vn fait par noſme de quanda<g ref="char:cmbAbbrStroke">̄</g> cartam, et
+<abbr>pled</abbr> accordant a ceo en acc<g ref="char:cmbAbbrStroke">̄</g> port vers luy, ceſt aſſetz bon, ¶<hi>Brian,</hi> a meſme lentent et le comme<g ref="char:cmbAbbrStroke">̄</g> pleding proue tout vn appeller teſtamentum &amp; lr<g ref="char:cmbAbbrStroke">̄</g>as teſtme<g ref="char:cmbAbbrStroke">̄</g>torias, car vous ſaches bien, q<g ref="char:cmbAbbrStroke">̄</g> le count en dette port par <abbr>execut</abbr> voet. Et ꝓ fert hic in cur<g ref="char:cmbAbbrStroke">̄</g> lr<g ref="char:cmbAbbrStroke">̄</g>as teſtamentorias <abbr>predict</abbr> del teſtatour, &amp; vncore le def. <abbr>dde</abbr> oyer del teſtament, par q<g ref="char:cmbAbbrStroke">̄</g>. Et ieo poſe q<g ref="char:cmbAbbrStroke">̄</g> ieo doy vous lyuer tielx lr<g ref="char:cmbAbbrStroke">̄</g>es patentz del roy dun tiel office par reſon vn arbitrement, et paraduenture ieo les <abbr>pard</abbr>, et puis ala en le Chauncery et purchaſe vn exemplificacion de ceo et ceo dona a vous en lieu des lr<g ref="char:cmbAbbrStroke">̄</g>es pate<g ref="char:cmbAbbrStroke">̄</g>tz ne <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan>ra ieo diſcharge par ceo? oil certes. Et lou
+<abbr>lagard</abbr> eſt que ieo doy vous enfeoffer &amp;c. ſi ieo vous fait lees et reles ceſt aſſets bon ꝑfour<g ref="char:EOLhyphen"/>mans del ag. <abbr>qd</abbr> ¶<hi>Littelton</hi> negauit, ideo quere de hoc.</p>
+         </div>
+         <div type="part">
+            <head>¶DE TERMINO TRINITATIS ANNO. XVII. Edwardi quarti.</head>
+            <p>
+               <note place="margin">1 Arbitrem<g ref="char:cmbAbbrStroke">̄</g>t</note>
+               <seg rend="decorInit">N</seg>Ota par tout le courten treſpas ſi le def. <abbr>pled</abbr> vne arbitrem<g ref="char:cmbAbbrStroke">̄</g>t q<g ref="char:cmbAbbrStroke">̄</g> le def. duiſt don<g ref="char:cmbAbbrStroke">̄</g> al <abbr>pl</abbr> vn certeyn<g ref="char:cmbAbbrStroke">̄</g> ſome dargent et que il trou<g ref="char:cmbAbbrStroke">̄</g>a ſuer tie al
+<abbr>pl</abbr> pur le parme<g ref="char:cmbAbbrStroke">̄</g>t dicel, il couient a luy mr<g ref="char:cmbAbbrStroke">̄</g>e le ſubmiſſyon, &amp; anxi q<g ref="char:cmbAbbrStroke">̄</g> il ad puy, ou autrement q<g ref="char:cmbAbbrStroke">̄</g> il ad troue ſuerte autrem<g ref="char:cmbAbbrStroke">̄</g>t le ple neſt bon. P. 5. E. 4.1.</p>
+            <p>
+               <note place="margin">2 Accion ſur le cas.</note>THomas Browne ſuiſt acc<g ref="char:cmbAbbrStroke">̄</g> ſur ſo<g ref="char:cmbAbbrStroke">̄</g> cas enu<g ref="char:cmbAbbrStroke">̄</g>s vn Hawkins, <abbr>d</abbr> ceo lou le dit T. B. eſtoit de bon<g ref="char:cmbAbbrStroke">̄</g> fame &amp; co<g ref="char:cmbAbbrStroke">̄</g>dicion la auoit le dit H. tiel iour &amp; lieu luy claim<g ref="char:cmbAbbrStroke">̄</g> eſtre ſon viſſeme, et oue forc<g ref="char:cmbAbbrStroke">̄</g> et armis <pb facs="tcp:181095:4"/>giſoit agayt pur luy prendre et empriſon<g ref="char:cmbAbbrStroke">̄</g>, et de luy faire come de ſon villein par q<g ref="char:cmbAbbrStroke">̄</g> il ne auſoit aler et faire ſes beſoignes. Et auoit iugem<g ref="char:cmbAbbrStroke">̄</g>t de rec<g ref="char:cmbAbbrStroke">̄</g> ſes dam<g ref="char:cmbAbbrStroke">̄</g>, pur ceo que il ſuit trie franke et de franke eſtate. Et ore le dit Hawkins ſuiſt br<g ref="char:cmbAbbrStroke">̄</g>e derrour en bank le roy. ¶<hi>VVod,</hi> moy ſemble le iugement ſerr<g ref="char:cmbAbbrStroke">̄</g> reu<g ref="char:cmbAbbrStroke">̄</g>s pur ceo que moy ſemble le mar<g ref="char:cmbAbbrStroke">̄</g> en luy neſt ſuffic. de mainten<g ref="char:cmbAbbrStroke">̄</g> laccion, car iay priſe pur vn grou<g ref="char:cmbAbbrStroke">̄</g>d que home nauera accion de choſe q<g ref="char:cmbAbbrStroke">̄</g> 
+               <abbr>depend</abbr> ſolement ſur lentent daſcun perſo<g ref="char:cmbAbbrStroke">̄</g> car ceo ne poit propreme<g ref="char:cmbAbbrStroke">̄</g>t eſtre trie: come ſi ieo voille dire q<g ref="char:cmbAbbrStroke">̄</g> ieo <abbr>voill</abbr> debruſer vr<g ref="char:cmbAbbrStroke">̄</g>e meſon, et puis ieo ne veigne preſſe a voſtre mea<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> mez ne face riens, vous naueres acc. er vncore paradue<g ref="char:cmbAbbrStroke">̄</g>ture mon ente<g ref="char:cmbAbbrStroke">̄</g>t fuit pur faire come ieo diſoy deuant: a forciori en le cas al barre, car il eſt loial pur moy de claim<g ref="char:cmbAbbrStroke">̄</g> vn come mon villen lou <abbr>ientend</abbr> que il e<g ref="char:cmbAbbrStroke">̄</g> eſt iſſint, come de claim<g ref="char:cmbAbbrStroke">̄</g> vn <abbr>gard</abbr> ou ſeruant, pur quel claym<g ref="char:cmbAbbrStroke">̄</g> de luy prendre ſans acte fait ieo ne ſerra puny. Auxint come moy
+<abbr>ſembl</abbr> le gi<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> en agait ne ſerra <abbr>entend</abbr> pur meſme le cauſe, ſi non q<g ref="char:cmbAbbrStroke">̄</g> il ſoit iſſint ſurmiſe en fait, come il nad mie: car ſi ieo port briefe de treſpas et re<g ref="char:EOLhyphen"/>ſite en mon briefe lou ieo ſue ſeiſi del man<g ref="char:cmbAbbrStroke">̄</g> de D. oue wreke de mere le wreke ne ſerra
+<abbr>entend</abbr> app<g ref="char:cmbAbbrStroke">̄</g> al man<g ref="char:cmbAbbrStroke">̄</g>, ſauns ceo monſtre enfait, ſic hic par que &amp;c. ¶<hi>Suliard,</hi> al contrarie. Et <abbr>ientend</abbr> que vous voilles toutz agreer, que ſi Hawkins vſt luy manace pur prendre et empri<g ref="char:EOLhyphen"/>ſon<g ref="char:cmbAbbrStroke">̄</g>, pur pauour de q<g ref="char:cmbAbbrStroke">̄</g>l il noſaſt aler en ſes beſoign<g ref="char:cmbAbbrStroke">̄</g>, que pour cel il a<g ref="char:EOLhyphen"/>uera accio<g ref="char:cmbAbbrStroke">̄</g>, et ſi ſic, ieo prouera que tout ceo eſt include icy, car le claim<g ref="char:cmbAbbrStroke">̄</g> 
+               <abbr>includ</abbr> vn manace en luy, et ſon demeanour apres proue bien que il ceo <abbr>entend</abbr> par le claim<g ref="char:cmbAbbrStroke">̄</g>, come ſerra lou home diſtr<g ref="char:cmbAbbrStroke">̄</g> mo<g ref="char:cmbAbbrStroke">̄</g> 
+               <abbr>chiuall</abbr> &amp; puiz luy
+<abbr>vend</abbr> ou occiſt. Iſſint proue le gi<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> en agait en noſtre cas. Et ho<g ref="char:cmbAbbrStroke">̄</g>e poit eſte manace coment q<g ref="char:cmbAbbrStroke">̄</g> il ne ſoit preſent, &amp; auoidra vn fait ꝑ tyel manace. Et auxi vn aſſaut poit eſte lou les ꝑties ne fuer<g ref="char:cmbAbbrStroke">̄</g> enſembles co<g ref="char:cmbAbbrStroke">̄</g>e ſi ieo ſue chiuacha<g ref="char:cmbAbbrStroke">̄</g>t en le chemin, et vn vient a moy et dit gardes vous bien, car vn dit a moy ore que fuit chiuacha<g ref="char:cmbAbbrStroke">̄</g>t aprez vous que ſil poet vous pre<g ref="char:cmbAbbrStroke">̄</g>dr<g ref="char:cmbAbbrStroke">̄</g> il vous tuera, pur pauour de q<g ref="char:cmbAbbrStroke">̄</g>l en haſtif. chiua cher pour eſchaper ieo tue mon chiual pur trop de laboure, icy iaue ra ac<g ref="char:EOLhyphen"/>cion ſur mon cas. <hi>quod fuit dedict per totam curai.</hi> ¶<hi>Townſend.</hi> al contrarie, le mater del accion icy eſt merement co<g ref="char:cmbAbbrStroke">̄</g>trarie en luy m<g ref="char:cmbAbbrStroke">̄</g>, q<g ref="char:cmbAbbrStroke">̄</g>l ſi ieo miſt mon chiual al ferrour pur eſte ferre, et il per ſon neglig<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>z luy tua par que ieo port accion ſur mon cas recitant le eſpecial mar<g ref="char:cmbAbbrStroke">̄</g> &amp; conclude vi et armis equu<g ref="char:cmbAbbrStroke">̄</g> ſuum interfecit, ieo prendre riens par mon briefe. Quar icy miſe ii. maters daccion en br<g ref="char:cmbAbbrStroke">̄</g>. s. lun pur accion ſur le cas, et lauter pur general br<g ref="char:cmbAbbrStroke">̄</g> de treſpas, iſſint icy en ceſt accion ſur le cas il ad tielx ꝑolx a<g ref="char:abpre">p̄</g>s en le br<g ref="char:cmbAbbrStroke">̄</g>e vi et armis inſidiatus e<g ref="char:cmbAbbrStroke">̄</g>, q<g ref="char:cmbAbbrStroke">̄</g>l oue le mar<g ref="char:cmbAbbrStroke">̄</g> precedent include ii acc. de diuers natures: par q<g ref="char:cmbAbbrStroke">̄</g> &amp;c. Auxint le matter del accio<g ref="char:cmbAbbrStroke">̄</g> ne<g ref="char:cmbAbbrStroke">̄</g> bon car nul des articles aperluy eſt ſufficient <pb facs="tcp:181095:4"/>pur acc<g ref="char:cmbAbbrStroke">̄</g> auer s<g ref="char:cmbAbbrStroke">̄</g> ne claim<g ref="char:cmbAbbrStroke">̄</g>. ne le inſidiacion, donquez coment que ils ſount pryſez enſemblement, vncore ilz ne <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ount lacc<g ref="char:cmbAbbrStroke">̄</g> le pluis deſte main<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:cmbAbbrStroke">̄</g>, quar quant al primer. s. le claim<g ref="char:cmbAbbrStroke">̄</g>, ceo neſt que vn infamy, co<g ref="char:cmbAbbrStroke">̄</g>e ſi home appel moy laron le quel ne don<g ref="char:cmbAbbrStroke">̄</g> acc. en nr<g ref="char:cmbAbbrStroke">̄</g>e ley. Et quaunt al ſecond. s. le inſidiac. par ceo il ne fiſt aſcun tort. quar ſauns vue acre enfait ſerra pluis reſon daiuger pur bon entent que pour male par que &amp;c. ¶<hi>Ienney</hi> al contrary, nient obſtant que il ne poit auer accion pur le claim<g ref="char:cmbAbbrStroke">̄</g>, vncore quaunt il giſoit en agait accordant a ſon claym<g ref="char:cmbAbbrStroke">̄</g>, par reaſon de quel il noſaſt aler en ſez beſoignez, ceo don a luy cauſe daccion, come ſi vn giſt en le haute ſtrete &amp; dit que il voile moy bater ſi ieo veign al ſale de Weſtm<g ref="char:cmbAbbrStroke">̄</g>, &amp; vn come mon amy dyt ceo a moy, par q<g ref="char:cmbAbbrStroke">̄</g> ieo noſa ven<g ref="char:cmbAbbrStroke">̄</g> la pur pleder nauera ieo accion? <abbr>qd</abbr>. d. oyel, &amp; vncor<g ref="char:cmbAbbrStroke">̄</g> il ne parlaſt aſcun parol a moy. Et eſt comen choſe denditer home de inſidiacion en le chemin, &amp; continetur en le commiſſio<g ref="char:cmbAbbrStroke">̄</g> des Iuſtic. de peace. ¶<hi>Curia,</hi> mes ſaches ſi tiel enditem<g ref="char:cmbAbbrStroke">̄</g>t vient, deua<g ref="char:cmbAbbrStroke">̄</g>t nous le def. <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan>ra diſmiſſe, ¶
+<hi>Ienney,</hi> et a ceo que eſt dit que dun claim<g ref="char:cmbAbbrStroke">̄</g> home nau<g ref="char:cmbAbbrStroke">̄</g>a accion, ceo neſt iſſint et noſmement de vn tyel choſe que cauſe ca ho<g ref="char:cmbAbbrStroke">̄</g>e &amp; tout ſon ſanke eſte corrupt. ¶<hi>Digas;</hi> al contrary, home nauera vnques accion en noſtre ley ſauns acte en fait, quar ſi ieo ſue oblige a vn B. le quel B. eſt oblige pur C. a vn A. q<g ref="char:cmbAbbrStroke">̄</g> ieo luy gardera ſauns dam<g ref="char:cmbAbbrStroke">̄</g> enuers A. en ceſt cas B. nauera acc. ne recouere enuers moy deuant que il ad fait paiment pour C. ou auterment eſt en priſon, ou en execucion pur icel: ne le tenaunt nauera execuc. en value auau<g ref="char:cmbAbbrStroke">̄</g>t que le demau<g ref="char:cmbAbbrStroke">̄</g>dant ad ſue execucio<g ref="char:cmbAbbrStroke">̄</g> enuerz le tenau<g ref="char:cmbAbbrStroke">̄</g>t: ne le tenau<g ref="char:cmbAbbrStroke">̄</g>t na<g ref="char:EOLhyphen"/>uera <hi>Ne iniuſte vexes</hi> auau<g ref="char:cmbAbbrStroke">̄</g>t que il ſoit diſtr<g ref="char:cmbAbbrStroke">̄</g> par le ſeigniour: donquez en le cas icy il appiert que nul act eſt fait. Et pur auter cauſe le ma<g ref="char:EOLhyphen"/>ter neſt ſufficient, car il ad diuerſitie enter manace de batrie, et ma<g ref="char:EOLhyphen"/>nace deſte empriſon, quar par batrie home ſerra mis en ieopardye de ſon vie, le quel home ne voloit pur tout le treſure en le <abbr>mond</abbr>, mez pur lucre home voile ſuffer deſte empriſon et dycel il auera dam<g ref="char:cmbAbbrStroke">̄</g> en br<g ref="char:cmbAbbrStroke">̄</g>e de
+<hi>Faux impriſonment,</hi> &amp; auxint il auera briefe de <hi>homine reple<g ref="char:EOLhyphen"/>giando,</hi> mes pur batrie il eſt impoſſible que home eit amendꝭ. Et ieo croy ſi home voilloit <abbr>dder</abbr> ſuertie de peace deuaunt vous vers aſcun &amp; pur nul cauſe, mes pur ceo que il eſt en doubte q<g ref="char:cmbAbbrStroke">̄</g> lautre voile pren<g ref="char:EOLhyphen"/>der &amp; impriſon<g ref="char:cmbAbbrStroke">̄</g>, vous ne voilles luy grau<g ref="char:cmbAbbrStroke">̄</g>ter le peace. <hi>Ad quod curia concord.</hi> ¶<hi>Pigot</hi> a meſm<g ref="char:cmbAbbrStroke">̄</g> lentent, et en le cas parenter mon ſeigni<g ref="char:EOLhyphen"/>or de Sarum, &amp; le ſegnior Egremont quaunt ils auoyent <abbr>graund</abbr> multitude de gentz de cheſcun part en maner de guerre, vncore ceo ne duiſſoit au<g ref="char:cmbAbbrStroke">̄</g> eſte iudge aſcun aſſaut, ſino<g ref="char:cmbAbbrStroke">̄</g> pur ceo q<g ref="char:cmbAbbrStroke">̄</g> aſcu<g ref="char:cmbAbbrStroke">̄</g> deux auoye<g ref="char:cmbAbbrStroke">̄</g>t tyre oue lour arkes, et iſſint pur fair<g ref="char:cmbAbbrStroke">̄</g> vn aſſaut home doit ꝑler ou ex tender ſes braches, et par ceo ſon entent ſerra conus. Et ſi home ꝑt
+<pb facs="tcp:181095:5"/>br<g ref="char:cmbAbbrStroke">̄</g>e de tru<g ref="char:cmbAbbrStroke">̄</g>s vers moy <hi>Quare clauſum ſuum fregit ad intentionem ca<g ref="char:EOLhyphen"/>piendi bona ſua,</hi> tout ceo a<g ref="char:abpre">p̄</g>s (ad intentionem) eſt outerment <abbr>voyd</abbr>, et il nauera dam<g ref="char:cmbAbbrStroke">̄</g> eins eyant regard al infreindre del clos, par q<g ref="char:cmbAbbrStroke">̄</g> len<g ref="char:EOLhyphen"/>tent dun home ſolement ſauns act fayt neſt materiall. ¶<hi>Fairfax.</hi> Iuſtice al contrarie, et ieo agree que le claim<g ref="char:cmbAbbrStroke">̄</g> &amp; le inſidiacio<g ref="char:cmbAbbrStroke">̄</g> ſoleme<g ref="char:cmbAbbrStroke">̄</g>r ne don<g ref="char:cmbAbbrStroke">̄</g> cauſe dacc. mes quaunt il dit ouſtr<g ref="char:cmbAbbrStroke">̄</g> per quod circa ne gotia ſua palam intendere non audebat, tout cel enſemble eſt bon matr<g ref="char:cmbAbbrStroke">̄</g> pour accion auer. Et ieo agree que les parolx ne fount aſcu<g ref="char:cmbAbbrStroke">̄</g> matter, quar home au<g ref="char:cmbAbbrStroke">̄</g>a acc. ſur ſon cas lou nul parol e<g ref="char:cmbAbbrStroke">̄</g> parle, ce<g ref="char:cmbAbbrStroke">̄</g>e ſi ieo eſcrie en vn ſerowe que ieo voille bater I. S. ſil vie<g ref="char:cmbAbbrStroke">̄</g>t hors de ſon meaſo<g ref="char:cmbAbbrStroke">̄</g>, et puis iet cel ſerowe en le meaſon de I. S. par q<g ref="char:cmbAbbrStroke">̄</g> il noſa ſi venir de hors en ſes beſoignes, en ceo cas il au<g ref="char:cmbAbbrStroke">̄</g>a accio<g ref="char:cmbAbbrStroke">̄</g> ſur ſon cas. Et vncor<g ref="char:cmbAbbrStroke">̄</g> nul parol parle. ¶<hi>Nedham, &amp; Billing,</hi> chiefe iuſtic. al co<g ref="char:cmbAbbrStroke">̄</g>trarie, quant le claim<g ref="char:cmbAbbrStroke">̄</g> ne le manace ne don<g ref="char:cmbAbbrStroke">̄</g> nul cauſe dacc. come eſt agree, le q<g ref="char:cmbAbbrStroke">̄</g>l eſt antece<g ref="char:EOLhyphen"/>dent, coment poit le conſequens don<g ref="char:cmbAbbrStroke">̄</g> accion? q. <abbr>d.</abbr> non poet, par que donques ſerra rette le foly del <abbr>pl</abbr> q<g ref="char:cmbAbbrStroke">̄</g> il ne alaſt de hors en ſes beſoig<g ref="char:EOLhyphen"/>nes. Et ſont diuers caſes en nr<g ref="char:cmbAbbrStroke">̄</g>e ley lou home auera dampnu<g ref="char:cmbAbbrStroke">̄</g> abſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> iniuria, come de defamaco<g ref="char:cmbAbbrStroke">̄</g>ne en appella<g ref="char:cmbAbbrStroke">̄</g>t vn home laron, ou traitor, ce<g ref="char:cmbAbbrStroke">̄</g> dam<g ref="char:cmbAbbrStroke">̄</g> en nr<g ref="char:cmbAbbrStroke">̄</g>e ley, mes nul tort.<note place="margin">30. aſſ. p.
+19.</note> Et ſi ii. conſpir<g ref="char:cmbAbbrStroke">̄</g> denditr<g ref="char:cmbAbbrStroke">̄</g> vn ho<g ref="char:cmbAbbrStroke">̄</g>e il na<g ref="char:EOLhyphen"/>uera remedie ſi non q<g ref="char:cmbAbbrStroke">̄</g> il foit endite en fait, etauxi acquite ſur cel, iſſint en nr<g ref="char:cmbAbbrStroke">̄</g>e cas. Mes pour ceo q<g ref="char:cmbAbbrStroke">̄</g> ceſt le prim<g ref="char:cmbAbbrStroke">̄</g> temps que cel matr<g ref="char:cmbAbbrStroke">̄</g> ad eſte argue nous voillomus auyſer de ceo.</p>
+            <p>
+               <note place="margin">3 Scire fac.</note>HOme auoit rec<g ref="char:cmbAbbrStroke">̄</g> certen dette &amp; dam<g ref="char:cmbAbbrStroke">̄</g> par iudgꝭ &amp; auoit <hi>Elegit</hi> et auaunt le br<g ref="char:cmbAbbrStroke">̄</g>e ſeruy lan expire, par q<g ref="char:cmbAbbrStroke">̄</g> il auer vn <hi>Scire facias</hi> ſur quel le br<g ref="char:cmbAbbrStroke">̄</g>e fuit return<g ref="char:cmbAbbrStroke">̄</g> ſeruy, mes le def. ne vient. Et ſur ceo le pleintife pria vn
+<hi>Capias ad ſatiſ faciendum.</hi> ¶<hi>Ienney,</hi> moy
+<abbr>ſembl</abbr> q<g ref="char:cmbAbbrStroke">̄</g> il nau<g ref="char:cmbAbbrStroke">̄</g>a Cap<g ref="char:cmbAbbrStroke">̄</g>, pur ceo q<g ref="char:cmbAbbrStroke">̄</g> il auoit eſlieu ſon execuc<g ref="char:cmbAbbrStroke">̄</g> deua<g ref="char:cmbAbbrStroke">̄</g>t par <hi>Elegit</hi> le q<g ref="char:cmbAbbrStroke">̄</g>l eſt le pluis haut execuc<g ref="char:cmbAbbrStroke">̄</g>, pur ceo q<g ref="char:cmbAbbrStroke">̄</g> ſes terres ſerr<g ref="char:cmbAbbrStroke">̄</g> liables, et done par leſtatute, par que il ne reſorter de prender aur<g ref="char:cmbAbbrStroke">̄</g> execucion. Mes ceo nient obſtant apres il fuit aiudge que il auera le Cap<g ref="char:cmbAbbrStroke">̄</g> aſſetz bu<g ref="char:cmbAbbrStroke">̄</g>, quar come<g ref="char:cmbAbbrStroke">̄</g>t que cel execuc<g ref="char:cmbAbbrStroke">̄</g> par
+<hi>Elegit</hi> eſt done ꝑ le ſtatut W. 2. ca. 18. vncor<g ref="char:cmbAbbrStroke">̄</g> ceſt
+<abbr>eſtat</abbr> ne reſtrein<g ref="char:cmbAbbrStroke">̄</g> ceo q<g ref="char:cmbAbbrStroke">̄</g> fuit deuant al comen ley, par q<g ref="char:cmbAbbrStroke">̄</g> quauntle <hi>Scire facias</hi> iſſiſt ſur tiel briefe il anera ſon prier.</p>
+            <p>
+               <note place="margin">4 Dette.</note>LE maiſter des Rolles
+<abbr>demaund</abbr> des Iuſtices del comen ba<g ref="char:cmbAbbrStroke">̄</g>ke, ſi home promitta certen<g ref="char:cmbAbbrStroke">̄</g> ſom<g ref="char:cmbAbbrStroke">̄</g> dargent a vn auter pur marier ſo<g ref="char:cmbAbbrStroke">̄</g> file ou ſon ſeruant, le q<g ref="char:cmbAbbrStroke">̄</g>l luy maria <abbr>accord</abbr>, ſil au<g ref="char:cmbAbbrStroke">̄</g>a acc. de Detal comen ley pur cel argent ou nemye. ¶<hi>Townſend,</hi> moy ſemble nul accion en nr<g ref="char:cmbAbbrStroke">̄</g>e ley, car il ne<g ref="char:cmbAbbrStroke">̄</g> q<g ref="char:cmbAbbrStroke">̄</g> vn nude promiſe. Et exnudo pacto nulla oritur accio: co<g ref="char:cmbAbbrStroke">̄</g>e ſi ieo
+<abbr>promitt</abbr> vous. xx. <abbr>li.</abbr> pur fair<g ref="char:cmbAbbrStroke">̄</g> vr<g ref="char:cmbAbbrStroke">̄</g>e ſale de nouel,
+<pb facs="tcp:181095:5"/>icy nul accion giſt pur ceo car il nad <hi>quid pro quo:</hi> et neſt ſemble lou ieo vous promitte vi. s. cheſcu<g ref="char:cmbAbbrStroke">̄</g> ſemayn pur le comens dun tiel, car la il ad <hi>quid pro quo,</hi> &amp; le ley <abbr>entend</abbr> que il eſt vn tiel par q<g ref="char:cmbAbbrStroke">̄</g> 
+               <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan>uice ieo ay auau<g ref="char:cmbAbbrStroke">̄</g>tage, Auxint en le cas al barre le choſe q<g ref="char:cmbAbbrStroke">̄</g> il doit faire eſt eſpiri<g ref="char:EOLhyphen"/>tuel, le quel ne poit eſte
+<abbr>vend</abbr> ne le partie ne poit eſte compel de ceo fayr<g ref="char:cmbAbbrStroke">̄</g>, Et ſi ſic neſt reſo<g ref="char:cmbAbbrStroke">̄</g> que lautre ſerra charge. ¶<hi>Rogers &amp; Suliard</hi> al contrary, &amp; a ceo que eſt dit que il neſt que vn nude promiſe ceo ne<g ref="char:cmbAbbrStroke">̄</g> iſſint, quar il ad quid pro quo entaunt que ſon file ou amie eſt aua<g ref="char:cmbAbbrStroke">̄</g>ce par le mariage par entendement: quar ſi ieo promytte a vn ſchole<g ref="char:EOLhyphen"/>maiſter tant des de niers pur enfourmer mon fitz le quel iſſint fayt, il auera accion de Dette, Iſſint eſt lou ieo promitte a vn phyſicio<g ref="char:cmbAbbrStroke">̄</g> ou ſurgeon certen ſumme pur curer vn tiel pouer home. Ou ſi ieo pro<g ref="char:EOLhyphen"/>mitte vn labourer certein deniers pur repayrer tiel voy q<g ref="char:cmbAbbrStroke">̄</g> e<g ref="char:cmbAbbrStroke">̄</g> le haute chemin, bon accio<g ref="char:cmbAbbrStroke">̄</g> giſt ſur cel, ſic hic. ¶Et puis <hi>Chok et Littelton</hi> fu<g ref="char:EOLhyphen"/>eru<g ref="char:cmbAbbrStroke">̄</g>t <abbr>accord</abbr> oue le maſter des Rolles que en le principal cas nul ac<g ref="char:EOLhyphen"/>cion giſt al common ley. pur ceo que le matrimony ſur quel le ꝓmiſe fuit fou<g ref="char:cmbAbbrStroke">̄</g>due, eſt choſe eſpirituel q<g ref="char:cmbAbbrStroke">̄</g> ne poet eſtre <abbr>vend</abbr> en nul maner.</p>
+         </div>
+         <div type="part">
+            <head>¶DE TERMINO MICHAELIS ANNO regni Regis Edwardi quarti. xvii.</head>
+            <p>
+               <note place="margin">1 Treſpas.</note>
+               <seg rend="decorInit">T</seg>Reſpas Daſſaute, baterie, et impriſoneme<g ref="char:cmbAbbrStroke">̄</g>t a Ex<g ref="char:EOLhyphen"/>ceſter: le defendaunt dit que vn tiel fuit robbe par Iohn S. &amp; R. E. tiel iour &amp;c. et ils veiant al mea<g ref="char:EOLhyphen"/>ſon le pleintife, et le Conſtable de meſme le vyile (pur ceo que il auoyt le pleyntife ſuſpecte de meſm<g ref="char:cmbAbbrStroke">̄</g> le felonye) luy areſta, et entaunt que il ne voyl<g ref="char:EOLhyphen"/>loyt obeyer ſon areſt il nous <abbr>commaund</abbr> pour luy aſſiſter, par que nous mittomus noſtre mains ſur luy, le quel eſt m<g ref="char:cmbAbbrStroke">̄</g> le batery, et puis alamus oue le Conſtable a Exceſtre en ayde de luy et la luy deliueramus al Gayllour, le quel eſt meſme lempriſon<g ref="char:EOLhyphen"/>ment dount &amp;c. ¶<hi>Ienney,</hi> ceo neſt plee, quar nous auomus complein de ceo que il nous empryſon, et il ad monſtre lempriſonment eſtre fayt par vne auter ceſtaſſauoyr par le gayllour, le quel neſt reſ<g ref="char:EOLhyphen"/>pons a nous. Mes le courte teignoyt le ple aſſetz bone nyent ob<g ref="char:EOLhyphen"/>ſtaunt ceo. ¶
+<hi>Ienney,</hi> moy ſemble auxint que le ple eſt double, Vn entant q<g ref="char:cmbAbbrStroke">̄</g> il ad ſurmitte vne felonye deſtre fayten fait le quel done a cheſcun home auctorytie darreſter ceſty que le fait: quar ſi ieo vey vn home tue vn auter, ieo puis byen luy arreſter. Auter matter <pb facs="tcp:181095:6"/>eſt le commaundement de conſtable, que eſt auxi ſufficient. Mes a<g ref="char:EOLhyphen"/>pres quant le court fuit auiſe ils teignount le ple aſſetz ſyngle, Mes dit fuit par ¶<hi>Chok</hi> &amp; <hi>Littelton,</hi> que le ple neſt bon, entant que le de<g ref="char:EOLhyphen"/>fendant nad ſurmitte en le <abbr>pl</abbr> nul cauſe de ſuſpeccion en le <abbr>pl</abbr>, come adire que il fuit parſone de male fame, ou auterment que il fuit va<g ref="char:EOLhyphen"/>garaunt fefaunt nul labour, par que il
+<abbr>pled</abbr> iſſint. ¶<hi>Littelton</hi> auter<g ref="char:EOLhyphen"/>ment vn puit areſter cheſcun home en le vylle quant aſcun felony eſt fayt.</p>
+            <p>EN mayntenans en banke le Roy ſuit tenus par tout le courte q<g ref="char:cmbAbbrStroke">̄</g> vn iurrour poit exorter ſes compaignious pur paſ<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> oue le
+<abbr>pl</abbr> ou le def. ſolonques ceo come il <abbr>ſembl</abbr> le droit eſt et ſerra dit nul <abbr>maint</abbr>. Mes ſi il done aſcun money de ſon coſt demeſne ou dautre, ceo ſerra dit mayntenauns, ſoyt ceo pour le pluis verrey cauſe que poit eſte. Vide P. 18. E. 4. fo.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.2.4.</p>
+            <p>
+               <note place="margin">3 Treſpas. Arbitrem<g ref="char:cmbAbbrStroke">̄</g>t</note>LE cas fuit tyel ii. homes eux ſubmitte en lagard de I. S. pour certeyn Treſpas fayt par lun a lauter le quel agard q<g ref="char:cmbAbbrStroke">̄</g> le treſ<g ref="char:EOLhyphen"/>paſſour payera a lautre xl.
+<abbr>li.</abbr> s. x. <abbr>li.</abbr> priſt en poygne, et pour les xxx.
+<abbr>li.</abbr> que tem<g ref="char:cmbAbbrStroke">̄</g> que il cauſe roit iii. ſeue ralx perſonez eſte obligez theſ<g ref="char:EOLhyphen"/>cun en x. <abbr>li.</abbr> al partie a que &amp;c. (ſi ceſt agard ſoit bone ou nemye) Et par loppinion de toutz les Iuſtices lagarde fuit tenus voyde, quar diuerſitie eſt parenter le condicion dun obligacion et vne arbytre<g ref="char:EOLhyphen"/>ment, quar home poit luy obliger que il cauſera I. S. denfeoffer R. N. et ſil ne enfeoffa luy il ad forfait ſon obligacion, pour ceo que ceſt ſon foly, et par le lien il ad prie ſux luy que I. S.
+<abbr>voil</abbr> ceo ſayre. Mes en arbitrem<g ref="char:cmbAbbrStroke">̄</g>t le ley <abbr>entend</abbr> que les arbitrours ſerroſut indiffe<g ref="char:EOLunhyphen"/>rents et <abbr>equall</abbr> iudges enter les parties donques quel indifferen<g ref="char:EOLhyphen"/>cy eſt ceo de cauſer vn home de prouer tiel choſe eſte fait que giſten le volunte dun eſtraunge ſil voile ceo faire ou non, quar ieo poſe que vn arbitrour voile ag. q<g ref="char:cmbAbbrStroke">̄</g> ieo duiſie cauſer le roy a don<g ref="char:cmbAbbrStroke">̄</g> le tewr<g ref="char:cmbAbbrStroke">̄</g> de Lo<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>dres a lauter tiel ag. eſt clerement voyd. Et auxint le partie nad nul remedie pur compeller leſtraunge pour faire lacte, mes ſil auoit tiel power auterment ſerra, come lou vn arbitrour
+<abbr>agard</abbr> que lou vne tiel fuit ſeiſi a mon vſe que ieo luy cauſera de fayre relees a lautre eſteant en poſ<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan>, ceo eſt bon pour ceo que ieo ay tyel entereſt et pow<g ref="char:EOLhyphen"/>er que ieo poy compeller mes feoffes de releſſer. ceſtaſſauoyr <hi>per ſub pena.</hi> ¶<hi>Choke.</hi> ſi lagarde vſt eſtre que vous duyſſes fayre vne tyel defaute en vn accyon de conuſtre lacryon al pleynetyfe, ceſt clerement voyde. Et iſſynt tyent toute le Courte.</p>
+            <p>
+               <note place="margin">4 Couenant.</note>¶Couenaunt le cas fuit tiel, que lou le def. auer leſſe al <abbr>pleint</abbr> vne <pb facs="tcp:181095:6"/>maner pour certien tearme, et luy graunt par indenture que il luy acquitera durant le terme de toutz charges iſſau<g ref="char:cmbAbbrStroke">̄</g>tz hors del dit ma<g ref="char:EOLhyphen"/>ner durant le dit terme, deins q<g ref="char:cmbAbbrStroke">̄</g>l terme les comens en le parliame<g ref="char:cmbAbbrStroke">̄</g>t graunterou<g ref="char:cmbAbbrStroke">̄</g>t al roy le diſieme part del value de lour terres, ſi en ceo cas le def. duiſt acquiter le leſſe ou nemie. ¶<hi>Ienney</hi> ſemble que lac<g ref="char:EOLhyphen"/>cion giſt bien, et que ceſt diſme ſerra dit iſſaunt hors del terre, quar auterment laccion ſerra dyt come voyde, que ieo conceiue que les commiſſioners ount power de commaunder les collectours daler a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> terre et la diſtreine pur le ſumme due, Et le ſir diſme part del va<g ref="char:EOLhyphen"/>lue de la terre, et le diſme part des iſſues et profites del terre ſount tout vn, quar quant le
+<hi>diſtringas</hi> vient al vicou<g ref="char:cmbAbbrStroke">̄</g>t que parla <hi>diſtringas</hi> terras &amp; ten<g ref="char:cmbAbbrStroke">̄</g>, vncore ſur ceo en le retourne il ne returnera en iſſuez forſque le value del profitz, et nemy le value del terre, et iſſint ſerra <abbr>entend</abbr> par lact quel parle del diſme part del value que le terre ſerra charge. Auxint lacte eſt que ilz duiſſent leuer ceo omnibus viis et mediis, par que. ¶<hi>Cateſby,</hi> al contrary, ieo voylle bien que le Roye pour tiel dette poit diſtrein, mes vncore le terre ne ſerra par taunt charge dicel, coment ſi ieo face recogniſauns al roy et aytiel tenaunt et face couenaunt come ceo cy et en ceo cas ne ſerra dit aſcu<g ref="char:cmbAbbrStroke">̄</g> charge al terre, quar poit eſtre que il voille auer execucion vers mon per<g ref="char:EOLhyphen"/>ſon, et ceo eſt pluis properment charge, et ieo ſay bien que il poit diſ<g ref="char:EOLhyphen"/>treine, mes ceo neſt forſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> per media et vias &amp;c. et ie ne ſay coment la terre ſerra dit charge forſque immediate. Et ſir ieo poſe que ieo vous graunt le rente que vn tiel mon tenaunt paye a moy annuel<g ref="char:EOLhyphen"/>ment, eſt le terre charge? non, par que &amp;c. ¶<hi>Nele</hi> al contrarie, &amp; que ceſt diſme parte ſerra dit iſſant hors del terre, et ſi ſic donques lacc<g ref="char:cmbAbbrStroke">̄</g> giſt, quar ieo die que le Roy eſt hors del cas de cheſcun comen per<g ref="char:EOLhyphen"/>ſon, quar coment que nul clauſe de diſtr<g ref="char:cmbAbbrStroke">̄</g> ſoit don<g ref="char:cmbAbbrStroke">̄</g> al Roy par le fait, vncore il diſtr<g ref="char:cmbAbbrStroke">̄</g> pur ſon rent, donques a forciore quaunt il ceo graunt a luy par auctorytie de parliament que eſt auxi bien le graunt dun come dauter, per que cheſcun terre en le Realme eſt charge a vne ſom<g ref="char:cmbAbbrStroke">̄</g> en certeyn, et le def. duiſt luy acquiter &amp;c. ¶
+<hi>Litelton,</hi> a meſme lentent, et ieo poſe que ieo graunte a mon maſter Brian vn rente hors de mon maner de Dale, et que pour def. de payment il dyſtr<g ref="char:cmbAbbrStroke">̄</g> pour cel en mon maner de Sale, puis ieo leſſa le maner de Sale a Ienney pour terme dans oue autiel couenaunt come eſt icy, &amp; pur le rent arrer<g ref="char:cmbAbbrStroke">̄</g> maſter Bryan luy diſtr<g ref="char:cmbAbbrStroke">̄</g> nauera Ienney briefe de co<g ref="char:EOLhyphen"/>uenaunt vers moy? oyel. ¶<hi>Cateſby;</hi> la ieo graunte bien, quar vous aues charge la terre. ¶<hi>Littelton,</hi> ſir a forciori en le cas le Roy co<g ref="char:cmbAbbrStroke">̄</g>e maſter Nele ad dit, quar ſi ieo graunt al Roy <hi>veſturam terre,</hi> ceo eſt en luy. Mes ſi ſoyt a vne comen perſon le ley eſt auter, car veſtur<g ref="char:cmbAbbrStroke">̄</g> 
+               <pb facs="tcp:181095:7"/>del terre ne poit paſſer hors vn comen perſon ſauns liuere &amp; ſeiſin. ¶<hi>Chok,</hi> ſemble que le charge enſuera le terre, al cas del veſture graunt ſi ſoit par auctorite de par liam<g ref="char:cmbAbbrStroke">̄</g>t il eſt bon ſans queſtion. Et ieo poſe que al temps del grant icy ieo fuiſſoy ſeiſi del man<g ref="char:cmbAbbrStroke">̄</g> de Dale &amp; pu<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> alien ceo, mon aliene ſerra charge del x. ꝑte et nemye moy, ergo le terre eſt charge, &amp; par conſequenz lacc<g ref="char:cmbAbbrStroke">̄</g>
+               <abbr>maint</abbr>. ¶<hi>Brian</hi> al co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>trary. Et primes al cas que maiſter Littelton ad miſe del graunte del re<g ref="char:cmbAbbrStroke">̄</g>t hors del maner oue diſtr<g ref="char:cmbAbbrStroke">̄</g> en auter maner les ꝑolx del grau<g ref="char:cmbAbbrStroke">̄</g>t ſerra tout, quar en voſtre couenant vous diſcharges voſtre leſſe de toutz charges iſſantz hors del dit maner, la vous nenfreignez a<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>un couen<g ref="char:cmbAbbrStroke">̄</g>t. Mes ſi vous luy diſcharges de cheſcu<g ref="char:cmbAbbrStroke">̄</g> charge q<g ref="char:cmbAbbrStroke">̄</g> il duiſt auer par reaſon de cel maner donoues eſtez lie a ceo par br<g ref="char:cmbAbbrStroke">̄</g>e couen<g ref="char:cmbAbbrStroke">̄</g>t, mez nemy en lauter caſe, car neſt iſſant hors de cel maner. Et en voſtre caſe <hi>Littelton.</hi> del ve ſtur<g ref="char:cmbAbbrStroke">̄</g> graunt, moy ſe<g ref="char:cmbAbbrStroke">̄</g>ble que ceo paſſera ꝑ grau<g ref="char:cmbAbbrStroke">̄</g>t ſauns liuer<g ref="char:cmbAbbrStroke">̄</g>, q<g ref="char:cmbAbbrStroke">̄</g>r ſi vous leſſes la terr<g ref="char:cmbAbbrStroke">̄</g> a moy a terme des ans <abbr>l</abbr> frank<g ref="char:EOLhyphen"/>tenem<g ref="char:cmbAbbrStroke">̄</g>t eſt en vous, &amp; ieo nay aſcun choſe forſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> le veſture &amp; profyt dee<g ref="char:cmbAbbrStroke">̄</g> pris la, par q<g ref="char:cmbAbbrStroke">̄</g>. Et lou il eſt dit q<g ref="char:cmbAbbrStroke">̄</g> neſt diuerſitie lou le grant vſt ee<g ref="char:cmbAbbrStroke">̄</g> del value des diſme ꝑte del iſſues del terr<g ref="char:cmbAbbrStroke">̄</g>, &amp; lou le diſm<g ref="char:cmbAbbrStroke">̄</g> partie del il<g ref="char:EOLhyphen"/>ſues del terre, <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> il ad <abbr>grand</abbr> diuerſitie
+<abbr>ent</abbr> les caſes, q<g ref="char:cmbAbbrStroke">̄</g>r ſi le grant vſt ee<g ref="char:cmbAbbrStroke">̄</g> q<g ref="char:cmbAbbrStroke">̄</g> le roy au<g ref="char:cmbAbbrStroke">̄</g>oit le x. partie del iſſues del terr<g ref="char:cmbAbbrStroke">̄</g> la <abbr>l</abbr> terr<g ref="char:cmbAbbrStroke">̄</g> 
+               <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan>ra dit charge mes en laur<g ref="char:cmbAbbrStroke">̄</g> cas nemy. Et ieo mittera a vous vn caſe q<g ref="char:cmbAbbrStroke">̄</g> prouera vn
+<abbr>aut</abbr> diuerſitie, ſi ieo ſue oblige a maiſter <hi>Choke</hi> en xx.ii, ſur tiel co<g ref="char:cmbAbbrStroke">̄</g>di<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> q<g ref="char:cmbAbbrStroke">̄</g> ſi ieo luy payer le diſme parte des iſſues del man<g ref="char:cmbAbbrStroke">̄</g> de Dale q<g ref="char:cmbAbbrStroke">̄</g> donq<g ref="char:cmbAbbrStroke">̄</g>s &amp;c. ſi ieo ne luy paya de meſme les iſſues lobligacio<g ref="char:cmbAbbrStroke">̄</g> eſt forfait. Mes ſi le condic<g ref="char:cmbAbbrStroke">̄</g> ſoit que ieo luy payera del value &amp;c. donq<g ref="char:cmbAbbrStroke">̄</g>s ieo puis <abbr>ap<g ref="char:EOLhyphen"/>prompt</abbr> dun auter home a tant et luy payer et lobligac<g ref="char:cmbAbbrStroke">̄</g> ſauer. Et ſi Mille liuers ſoie<g ref="char:cmbAbbrStroke">̄</g>t iſſint grantꝭ al roy il puit pur ceo diſtr<g ref="char:cmbAbbrStroke">̄</g> lou il vou<g ref="char:EOLhyphen"/>dra, q<g ref="char:cmbAbbrStroke">̄</g>r ma terr<g ref="char:cmbAbbrStroke">̄</g> ne<g ref="char:cmbAbbrStroke">̄</g> pluis lie q<g ref="char:cmbAbbrStroke">̄</g> la terr<g ref="char:cmbAbbrStroke">̄</g> dun eſtrange, iſſint ceo ne poyt eſte dit iſſant hors daſcu<g ref="char:cmbAbbrStroke">̄</g> terr<g ref="char:cmbAbbrStroke">̄</g>, ꝑ que &amp;c. ¶<hi>Littelton.</hi> ieo ay view les ꝑolx del endenture que uxſout q<g ref="char:cmbAbbrStroke">̄</g> il diſchargera le pleintife de euers &amp; charges dues &amp; deſte dues, donq<g ref="char:cmbAbbrStroke">̄</g>s ceo q<g ref="char:cmbAbbrStroke">̄</g> fuit grant al roy, quaunt il fuit grau<g ref="char:cmbAbbrStroke">̄</g>t fuit due a luy, &amp; pour ceo poit il loyalm<g ref="char:cmbAbbrStroke">̄</g>t diſtr<g ref="char:cmbAbbrStroke">̄</g>, ꝑ que le man<g ref="char:cmbAbbrStroke">̄</g> ſerr<g ref="char:cmbAbbrStroke">̄</g> charge oue ceo, par q<g ref="char:cmbAbbrStroke">̄</g> laccion bien <abbr>maint</abbr>.</p>
+            <p>
+               <note place="margin">5 Treſpas.</note>SIr W. Calthorp<g ref="char:cmbAbbrStroke">̄</g> port accion de Treſpas &amp; ſupp<g ref="char:cmbAbbrStroke">̄</g> que le def. duiſt auer piſch en ſon ſeueral piſcharie, le def. dit q<g ref="char:cmbAbbrStroke">̄</g> le lieu ou &amp;c. eſt et iour de Treſpas fuit nr<g ref="char:cmbAbbrStroke">̄</g>e franketenement &amp;c. ¶<hi>Pigot.</hi> ceo neſt plee, car poit eſte que il adnous graunt ſeueral piſcarie en ſon ewe demeſne, &amp; la le ſoyle et franketenement eſt al leſſour, et vncore ne poit il piſcher la come ſerra dun garrein ou chace. Et iſſint fuit tenꝰ ore <abbr>tard</abbr> en le cas parenter Strangwiche et Coniers, ¶
+<hi>Choke,</hi> 
+               <pb facs="tcp:181095:7"/>a meſme lentent, et neſt ſemble al cas daſ<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> de rent, q<g ref="char:cmbAbbrStroke">̄</g>r la ieo grant q<g ref="char:cmbAbbrStroke">̄</g> hors de ſo<g ref="char:cmbAbbrStroke">̄</g> fee eſt bon plee
+<hi>Prima facie,</hi> et le <abbr>pl</abbr> ferr<g ref="char:cmbAbbrStroke">̄</g> ſon title, q<g ref="char:cmbAbbrStroke">̄</g>r il ſerr<g ref="char:cmbAbbrStroke">̄</g>
+               <abbr>entend</abbr> rent <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan>uice tan<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> le <abbr>pl</abbr> ad fait title a autre rent, mez icye ſerr<g ref="char:cmbAbbrStroke">̄</g> pris q<g ref="char:cmbAbbrStroke">̄</g> le <abbr>pl</abbr> ad franke piſca<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie en le foile le def. come il poit aſſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>z bn<g ref="char:cmbAbbrStroke">̄</g> eſte
+<abbr>entend</abbr>. Mes del garrein et chace ceo duiſt eſte ꝑ graunt le roy ou ꝑ preſcripcion par q<g ref="char:cmbAbbrStroke">̄</g> &amp;c. ¶<hi>Brian.</hi> moy ſemble le ple bon quar il ad graund diuerſitie enter <hi>ſeperalem piſcariam et liberam piſcariam,</hi> car ſeueral piſcarie ne poit nul home auer forſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> en ſon ſoile demeſne, et auxi ſolement aperluy. Mes franke piſcarie ieo puis graunt a xx. ꝑſons en ma ſtangne, quar ſi nul luy diſturbe il ad liberam piſcai ia<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>quod Littelton conceſſit.</hi> ¶Mes <hi>Chok</hi> dit q<g ref="char:cmbAbbrStroke">̄</g> il ne ſau<g ref="char:cmbAbbrStroke">̄</g> diuerſity enter eux, car il dit q<g ref="char:cmbAbbrStroke">̄</g> ceſty que ad franke piſcarie auer ceo ſolem<g ref="char:cmbAbbrStroke">̄</g>t. ¶<hi>Brian,</hi> non, ieo mittera vous diuerſitie ſi iay vn
+<abbr>graund</abbr> cloſe, et vous troys eyes iiii. cloſes adioygnantz a mon cloſe, ieo puis graunter a cheſcu<g ref="char:cmbAbbrStroke">̄</g> de vous dauer liberum ingreſſum et regreſſum ouſtre ma terre a voſtr<g ref="char:cmbAbbrStroke">̄</g> terre, don<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> quant home poit auer franke piſcarie en aur<g ref="char:cmbAbbrStroke">̄</g> ſoyle et nemy ſeueral, &amp; le br<g ref="char:cmbAbbrStroke">̄</g>e eſt
+<hi>ſpeciali piſcaria.</hi> reſiduu<g ref="char:cmbAbbrStroke">̄</g> P. 18. E. 4.4.</p>
+         </div>
+         <div type="part">
+            <head>¶DE TERMINO HILARII ANNO. XVI. Edwardi quarti.</head>
+            <p>
+               <note place="margin">1 Chaleng. 6</note>
+               <seg rend="decorInit">E</seg>N aſſiſe port par le dean<g ref="char:cmbAbbrStroke">̄</g> &amp; chapiter de Lincoln<g ref="char:cmbAbbrStroke">̄</g> vn iurrour fuit chalenge pur ceo q<g ref="char:cmbAbbrStroke">̄</g> il fuit frere a vn des chanons dellieu. ¶<hi>Fairfax</hi> iuſtice, ceo neſt principal chalenge, pour ceo q<g ref="char:cmbAbbrStroke">̄</g> cheſcun dez chanons eſt en maner preſent &amp; reſident a ſon <abbr>Prebend</abbr> co<g ref="char:cmbAbbrStroke">̄</g>e vn ꝑſon eſt ſur ſon benefice, iſſynt ad il ſon poſ<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> diſtinct a parluy et ſeueral. Mes ſi le iurrour ſoit frere a vn moyne ou monyalle challenge ſerra bon<g ref="char:cmbAbbrStroke">̄</g> lou laccion eſt port per le ſoueraigne, Reſiduu<g ref="char:cmbAbbrStroke">̄</g> M, xxi. E. iiii. fo. xi.</p>
+            <p>
+               <note place="margin">2 Dette.</note>DEtte ſur le arer<g ref="char:cmbAbbrStroke">̄</g> dun les a terme dans et ſupp<g ref="char:cmbAbbrStroke">̄</g> q<g ref="char:cmbAbbrStroke">̄</g> il leſſa al def. xiiii. acres de terre ¶<hi>Cateſby</hi> quant a iiii. acres il ne leſſa pas Et quant al rem<g ref="char:cmbAbbrStroke">̄</g> nous diomus q<g ref="char:cmbAbbrStroke">̄</g> il eux leſſa a nous &amp; a noſtre feme le quel e<g ref="char:cmbAbbrStroke">̄</g> vncor<g ref="char:cmbAbbrStroke">̄</g> en plein vie nient noſme en le br<g ref="char:cmbAbbrStroke">̄</g>e iudgem<g ref="char:cmbAbbrStroke">̄</g>t &amp;c. ¶
+<hi>Chok</hi> voꝰ nau<g ref="char:cmbAbbrStroke">̄</g>ez tiel pledre, car ceo ple va a tout, et proue que nul tielles fuit co<g ref="char:cmbAbbrStroke">̄</g>e il ad ſupp<g ref="char:cmbAbbrStroke">̄</g>. Et pur ceo vous couient conuſtr<g ref="char:cmbAbbrStroke">̄</g> le leez dez x. acres et trauerſer ſaunz ceo q<g ref="char:cmbAbbrStroke">̄</g> il leſſa les xiiii. acres
+<hi>modo &amp; forma.</hi> Et iſſint fuit loppinion del court. ¶Et
+<hi>Chok</hi> dit, que ſi lees ſoit fayt al baron et le feme a terme dans (come le cas icy eſt) <abbr>rend</abbr> certein rent, ſi le rent ſoit arrer<g ref="char:cmbAbbrStroke">̄</g> laccion couient eſte port ermers eux ambi<g ref="char:EOLhyphen"/>deux et nemy ſolement vers le b<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>on, car par comen entendement le terre ſerra de pluis value que le
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent reſerue, iſſint q<g ref="char:cmbAbbrStroke">̄</g> le lees ſerra <pb facs="tcp:181095:8"/>
+               <abbr>entend</abbr> beneficial al feme, et tiel choſe que eſt beneficial el prendra durant le couertur<g ref="char:cmbAbbrStroke">̄</g>. Et ſi waſt ſoit fait laccion poit eſte port vers eux ambideux. <hi>quod curia conceſſit.</hi>
+            </p>
+            <p>DEette ſur vn obligac<g ref="char:cmbAbbrStroke">̄</g> de C. li. ¶<hi>Cateſby,</hi> lobligacion eſt en<g ref="char:EOLhyphen"/>doce ſur tiel condicion que ſile def. deliuer al pleintife. xxx. <abbr>li.</abbr> de blanke alome a tiel wharf. deins Londres a tiel iour que ſer<g ref="char:EOLhyphen"/>rount al value del ſom<g ref="char:cmbAbbrStroke">̄</g> en <abbr>dd</abbr> que adonques lobligacion pardra ſon force &amp;c. Et nous diomus que deuaunt le iour nous auomus blank alome a Londres priſt deſte &amp;c. al value &amp;c. Et diomus que tiel iour nous affirmamus vn pleint de dette enuers ceſty ore
+<abbr>pl</abbr> en Loun<g ref="char:EOLhyphen"/>dres ſur vn contract de C. li. et pur ceo que il napparuſt mie a aſcun des. iiii. courtz a rn<g ref="char:cmbAbbrStroke">̄</g>der a noſtre pleint ſolonquez le cuſtome del citie, agꝭ fuit que le dit alome duiſt eſte attache et nous duiſſomus ceo re<g ref="char:EOLhyphen"/>teign<g ref="char:cmbAbbrStroke">̄</g> en recompence de nr<g ref="char:cmbAbbrStroke">̄</g>e dit dutie, iudgement ſi accio<g ref="char:cmbAbbrStroke">̄</g> ¶<hi>Iey,</hi> ceo neſt ple, quar nous ne
+<abbr>ddomus</abbr> aſcun alome verz luy, ne alome neſt mie le duetie. Et ieo ay pris tout temps pour ley que vn ne poit eſte attache par biens lou al temps del attachement il nauoit proprietie en les bienz: quar ſi vous obliges a moy ſur condicio<g ref="char:cmbAbbrStroke">̄</g> que vous moy enfeofferes en le maner de D. tiel iour deuaunt le condicion par<g ref="char:EOLhyphen"/>fourme, ieo ne ſerra attache ne garny enceſt terre. ¶<hi>Cateſby.</hi> ſi ieo ſue oblige pur vous liuerer x. quarters de frume<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t deuaunt tyel iour apres le iour vous poies eſtre attache par ceo. ¶<hi>Iay,</hi> ſi vous vſſes liuer a nous pepper ou auter marchaundiſe quel que il ſoit, et nous vſſomus agree a cel, le condicion vſt eſte byen parfourme, et ceo proue que nous nauomus aſcun proꝑrietie en le alome. Et lopi<g ref="char:EOLhyphen"/>nion de tout le court fuit que le ple ne fuit bone pour le cauſe reherce auaunt.</p>
+            <p>
+               <note place="margin">4 Laborer.</note>ACcio<g ref="char:cmbAbbrStroke">̄</g> ſur
+<abbr>leſtat</abbr> labourers ſupp<g ref="char:cmbAbbrStroke">̄</g> que lou vn tiel fuit reteign<g ref="char:cmbAbbrStroke">̄</g> oue luy en <abbr>Lond</abbr> la ad le def, luy reteign<g ref="char:cmbAbbrStroke">̄</g> hors de ſon ſeruice deyns ſon term<g ref="char:cmbAbbrStroke">̄</g>, Et le def. <abbr>pled</abbr> en barre par petit ſeria<g ref="char:cmbAbbrStroke">̄</g>tie. Et ore <hi>Ien<g ref="char:EOLhyphen"/>ney,</hi> vient al barr<g ref="char:cmbAbbrStroke">̄</g> et fuit reteign<g ref="char:cmbAbbrStroke">̄</g> pur le def. et
+<abbr>pled</abbr> en abatem<g ref="char:cmbAbbrStroke">̄</g>t de br<g ref="char:cmbAbbrStroke">̄</g>e entaunt que le <abbr>pl</abbr> ne monſtre en ſon count en quel lieu le def. pryſt ſon ſeruant. Et fuit reſceu pour auer le ple nyent obſtaunt le pledre en barre deuaunt, pour ceo que il fuit mater apparaunt, et auxile barr<g ref="char:cmbAbbrStroke">̄</g> ne fuit plede par vn ſeriant. Et le briefe tenus abatable. Le plee en barre fuit tiel que le def. troue le dit ſeruant vagara<g ref="char:cmbAbbrStroke">̄</g>ten aur<g ref="char:cmbAbbrStroke">̄</g> com<g ref="char:cmbAbbrStroke">̄</g> hors de cheſcu<g ref="char:cmbAbbrStroke">̄</g> 
+               <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan>uice, et nemy marchaunt, ne nul terre ayant, ꝑ q<g ref="char:cmbAbbrStroke">̄</g> il luy reteign<g ref="char:cmbAbbrStroke">̄</g> pur luy ſeruier par vn an, ſanz ceo q<g ref="char:cmbAbbrStroke">̄</g> nous luy reteig<g ref="char:EOLhyphen"/>neromus en <abbr>Lond</abbr> co<g ref="char:cmbAbbrStroke">̄</g>e il ad ſupp<g ref="char:cmbAbbrStroke">̄</g> priſt. ¶<hi>Littelton,</hi> ceo e<g ref="char:cmbAbbrStroke">̄</g> bon ple, car ieo co<g ref="char:cmbAbbrStroke">̄</g>ceu que en vn com<g ref="char:cmbAbbrStroke">̄</g> home ne prendr<g ref="char:cmbAbbrStroke">̄</g> notice de reteign<g ref="char:cmbAbbrStroke">̄</g> enauter com<g ref="char:cmbAbbrStroke">̄</g>. Mes ſi le tout ſoit en vn com<g ref="char:cmbAbbrStroke">̄</g> ieo ne ſerra reſceu a pleder que <pb facs="tcp:181095:8"/>il fuit vagr<g ref="char:cmbAbbrStroke">̄</g> et hors de ſeruice, pur ceo que ieo ne doy eſte myſconiſa<g ref="char:cmbAbbrStroke">̄</g>t de choſe deinz meſm<g ref="char:cmbAbbrStroke">̄</g> 
+               <abbr>l</abbr> com<g ref="char:cmbAbbrStroke">̄</g>, &amp; la le def. duiſt trauer<expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan> le prim<g ref="char:cmbAbbrStroke">̄</g> reteign<g ref="char:cmbAbbrStroke">̄</g>. Mes quant il eſt en auter com<g ref="char:cmbAbbrStroke">̄</g> il ad fait bien. Et ceo fuit loppin ion de tout le court. Vide ſemble. P. 18. E.
+4.5.</p>
+            <p>
+               <note place="margin">5 Treſpas.</note>TReſpas de ſon chiual pris le defendant dit que le <abbr>pl</abbr> luy appriſt meſme le chiual tan<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> il auoit finiſhe ſes beſoignes, et di. que ces beſoignes ne ſount mie vncore faitz iudgement &amp;c. ¶<hi>Pi<g ref="char:EOLhyphen"/>got,</hi> Ceo neſt ple, quar home ne poit auer intereſſe en vn chatel ſi<g ref="char:EOLhyphen"/>non pur temps certein, et en ceo cas nul certeinte eſt compris, quar ſes beſoignes ne ſerra finies peraduenture en tout ſa vie. ¶<hi>Brian,</hi> ſerra
+<abbr>entend</abbr> que il ceo auera pour la vie. ¶<hi>Pigot.</hi> Coment auera home frankten<g ref="char:cmbAbbrStroke">̄</g>t en vne chatel? ¶<hi>Brian.</hi> ieo poſe q<g ref="char:cmbAbbrStroke">̄</g> ieo vous graunt loccupacion de mon chiual tan<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> vous aues chiuache a Euerwike, coment aues vous ceſt chiual; an non a terme de vie ſi vous pleiſt? ¶<hi>Littelton</hi> a meſme lentent, et ieo ſay byen que en pluſours lieux ilz ount tiel cuſtome que vne auera loccupacion de vn choſe a terme de ſa vie pur certain ſumme dargent, et tiel eſt luſage en mon pays de leſſer les <abbr>grand</abbr> pannes a eux q<g ref="char:cmbAbbrStroke">̄</g> braſient.</p>
+            <p>
+               <note place="margin">6 Treſpas. Accord.</note>TReſpas le def. dit que accion non, quar pour meſme le treſpas al inſtauns de diuers de lour bone amies le pleintife et ils ac<g ref="char:EOLhyphen"/>corderount que le defendaunt duiſt doner al pleyntife. xl. <abbr>d.</abbr> en ſatiſſac<g ref="char:cmbAbbrStroke">̄</g> del tort le quel il luy offra et vncore eſt priſt a payer et le <abbr>pl</abbr> ceo refuſe. ¶<hi>Pigot,</hi> ceo neſt ple, car ieo conceiue que vn concord ne liera aſcun partie ſinon que vn ſatiſfaccion ſoit en fait, pur ceo q<g ref="char:cmbAbbrStroke">̄</g> ſur
+<abbr>accord</abbr> nul accion giſt, mes de vn arbitrement le ley eſt auter, don<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> par ſon plee appiert q<g ref="char:cmbAbbrStroke">̄</g> nous diſagreomus al
+<abbr>accord</abbr> ꝑ le refuſel iſſint nul <abbr>accord</abbr>. ¶<hi>Cateſby.</hi> A ceo que il dit que vn ſatiſfaccion duiſt eſtre en fait ſur vn concorde, a ma conceite ceo neſt iſſint, car vn ſatiſfac<g ref="char:EOLhyphen"/>cion en ley ſerra aſſetz bien come eſt icy, quar quaunt nous tendo<g ref="char:EOLhyphen"/>mus et il refuſe, ceo fuit ſatiſfaccion en ley, le q<g ref="char:cmbAbbrStroke">̄</g>l ſuffiſt. Mes tout le court tient le contrary, par q<g ref="char:cmbAbbrStroke">̄</g> &amp;c.</p>
+         </div>
+         <trailer>¶Explicit Annus xvii Edwardi. iiii</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶Imprinted at Lon<g ref="char:EOLhyphen"/>don in fleteſtrete within Temple Barre at the ſigne of the hande and ſtarre by Richard Tottel, Anno. 1557.</p>
+            <p>
+               <hi>Cum priuilegio ad imprimendum ſolum.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
